@@ -1,4 +1,4 @@
-#How much have you spent on Amazon? 
+# How much have you spent on Amazon? 
 
 **How to use**
 1. Go to https://www.amazon.com/gp/b2b/reports 
